@@ -1,0 +1,10 @@
+insert into Product (name, descripcion, precio) values ('Bar Bran Honey Nut', 'Site Furnishings', 20.23);
+insert into Product (name, descripcion, precio) values ('Puree - Strawberry', 'Masonry & Precast', 16.34);
+insert into Product (name, descripcion, precio) values ('Scampi Tail', 'Fire Protection', 82.61);
+insert into Product (name, descripcion, precio) values ('Syrup - Kahlua Chocolate', 'Doors, Frames & Hardware', 41.72);
+insert into Product (name, descripcion, precio) values ('Onions - Vidalia', 'Overhead Doors', 17.36);
+insert into Product (name, descripcion, precio) values ('Onions - Red Pearl', 'HVAC', 47.14);
+insert into Product (name, descripcion, precio) values ('Wine - Redchard Merritt', 'Roofing (Metal)', 33.01);
+insert into Product (name, descripcion, precio) values ('Strawberries', 'Elevator', 80.89);
+insert into Product (name, descripcion, precio) values ('Tomatoes - Vine Ripe, Red', 'Fire Protection', 21.69);
+insert into Product (name, descripcion, precio) values ('Bread - Olive', 'Framing (Wood)', 80.71);

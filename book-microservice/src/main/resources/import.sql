@@ -1,0 +1,10 @@
+insert into Book (name) values ('Bar Bran Honey Nut');
+insert into Book (name) values ('Puree - Strawberry');
+insert into Book (name) values ('Scampi Tail');
+insert into Book (name) values ('Syrup - Kahlua Chocolate');
+insert into Book (name) values ('Onions - Vidalia');
+insert into Book (name) values ('Onions - Red Pearl');
+insert into Book (name) values ('Wine - Redchard Merritt');
+insert into Book (name) values ('Strawberries');
+insert into Book (name) values ('Tomatoes - Vine Ripe, Red');
+insert into Book (name) values ('Bread - Olive');
